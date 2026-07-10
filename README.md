@@ -26,3 +26,10 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Membe
+
+Contributor Update
+
+Contributor Name: 
+
+Feature Added:
+- Digital Library Dashboard
